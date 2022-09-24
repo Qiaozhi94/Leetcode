@@ -16,10 +16,4 @@ else:
         else:
           break
 
-
-
-
-
-
 print(str)
-
